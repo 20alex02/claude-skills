@@ -1,0 +1,8 @@
+{
+  "name": "dev-pipeline",
+  "version": "1.0.0",
+  "description": "Multi-model /feature and /bugfix pipelines (research, plan or diagnose, implement, review) with pinned-model subagents.",
+  "author": {
+    "name": "Alex Popovic"
+  }
+}

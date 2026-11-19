@@ -1,0 +1,21 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Alex Popovic"
+  },
+  "metadata": {
+    "description": "Shared Claude Code skills and agents for day-to-day development work."
+  },
+  "plugins": [
+    {
+      "name": "dev-pipeline",
+      "source": "./plugins/dev-pipeline",
+      "description": "Multi-model /feature and /bugfix pipelines (research, plan or diagnose, implement, review) with pinned-model subagents."
+    },
+    {
+      "name": "umbraco-tools",
+      "source": "./plugins/umbraco-tools",
+      "description": "Umbraco launch checklist for dev, stage and production: config, health check, redirects, caching, indexing, SEO, performance, schema.org."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "umbraco-tools",
+  "version": "1.0.0",
+  "description": "Umbraco launch checklist for dev, stage and production: config, health check, redirects, caching, indexing, SEO, performance, schema.org.",
+  "author": {
+    "name": "Alex Popovic"
+  }
+}
